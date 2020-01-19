@@ -20,8 +20,8 @@ int main()
             for(i=n2;i<=n1;i++){
             sum=sum+i;
             printf("%d ",i);
-        }
-        printf("Sum=%d\n",sum);
+           }
+         printf("Sum=%d\n",sum);
         }
     }
 }
